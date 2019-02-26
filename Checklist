@@ -1,0 +1,12 @@
+User inteface is visually appealing
+User interface is user-friendly
+Events available are listed for each grade
+Students can sign up for an event
+There is a capacity to the number of students in each event.
+Prompt for another choice if spots are taken
+Students can lookup what event they are signed up for
+Students can change the event they signed up for
+Data persists on the server using a database or json file
+Students can sign up along with their friends
+Get more information about the event by clicking on it
+Waitlists for popular events
